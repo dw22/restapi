@@ -1,0 +1,2 @@
+insert into book(book_id,book_name,author,publisher_name,genre) values (100,'Java Guide','James G','Samba','Technical');
+insert into book(book_id,book_name,author,publisher_name,genre) values (200,'Dot Net Guide','Thomas G','Samba','Technical');
